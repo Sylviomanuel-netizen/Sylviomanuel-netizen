@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./blackarch-ops-banner.png" alt="BLACKARCH OPS — SOL Origins profile banner" width="100%">
+</p>
+
 <div align="center">
 
 # `>_` BLACKARCH OPS
