@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./blackarch-ops-banner.png" alt="BLACKARCH OPS — SOL Origins profile banner" width="100%">
+  <img src="./blackarch-ops-banner.png" alt="BLACKARCH OPS — Linux security, Android privacy and local AI" width="100%">
 </p>
 
 <div align="center">
@@ -8,7 +8,7 @@
 
 ### Juan Favela
 
-**Cybersecurity Researcher · BlackArch Linux Enthusiast · GrapheneOS Supporter · AI Research Builder**
+**Linux & Cybersecurity Research · Android Privacy · Local AI Development**
 
 ![Linux](https://img.shields.io/badge/Linux-101015?style=for-the-badge&logo=linux&logoColor=white)
 ![BlackArch](https://img.shields.io/badge/BlackArch-171717?style=for-the-badge&logo=archlinux&logoColor=E82127)
@@ -16,45 +16,47 @@
 ![Privacy](https://img.shields.io/badge/Privacy_%26_Security-101015?style=for-the-badge&logo=proton&logoColor=E82127)
 ![Open Source](https://img.shields.io/badge/Open_Source-101015?style=for-the-badge&logo=github&logoColor=white)
 
-**Cybersecurity · AI Research · Privacy · Open Source**
+**Cybersecurity · Linux · Privacy · Reproducible Research**
 
 </div>
 
 ---
 
-## `>_` About Me
+## About
 
-I'm **Juan Favela**, working on Linux, Android, cybersecurity, privacy, and local AI projects under the **BLACKARCH OPS** identity.
+I'm **Juan Favela**, an independent builder working on Linux security, Android customization, privacy-preserving tooling, and experimental local AI under the **BLACKARCH OPS** identity.
 
-I focus on technical research, reproducible experimentation, system hardening, practical tooling, and privacy-focused development.
+My approach emphasizes reproducible methods, system hardening, careful documentation, recoverability, and clear distinctions between prototypes, proposed capabilities, and measured results.
 
-- **BlackArch Linux enthusiast** — Arch Linux, terminal workflows, tools and hardening.
-- **GrapheneOS supporter** — Interested in privacy-preserving Android security.
-- **Local AI research** — Creator of **SOL Origins**, an independent experimental project.
-- **Open-source development** — Building and documenting practical tools.
+## Selected Projects
 
-## Featured Projects
-
-| Project | Focus | Current status |
+| Project | Research / development focus | Current status |
 | --- | --- | --- |
-| **Termux Wallpaper** | Native wallpaper support for a Termux fork, with planned appearance controls. | MVP tested in an isolated Android emulator; not yet publicly released |
-| **RuView** | Wi-Fi signal analysis and presence-sensing research on Linux. | Research and development |
-| **SOL Origins — SOL Evolution Engine** | Independent local AI research, memory and system continuity. | Private research; source not publicly released |
-| **BlackArch Fortress / Sentinel** | Security-hardening and audit workflows. | Ongoing research |
+| **Termux Wallpaper** | Native wallpaper support in an independent Termux fork | MVP tested on an isolated Android emulator; not publicly released |
+| **RuView** | Linux Wi-Fi signal analysis and experimental sensing | Research and development |
+| **SOL Origins — SOL Evolution Engine** | Experimental local AI, contextual retrieval, restricted tools and state continuity | Working private prototype; benchmarks not yet publicly verified |
+| **BlackArch Fortress / Sentinel** | Linux security auditing, policy hardening and controlled research workflows | Ongoing private research |
 
-> Project descriptions only. Repository links will be added after source and security reviews.
+> Project descriptions do not imply source-code release or official affiliation. Public repositories and evidence will be linked after security, privacy and licensing review.
 
 ## Tech Stack & Interests
 
 `BlackArch Linux` · `Arch Linux` · `Android` · `GrapheneOS` · `Termux` · `Python` · `Bash` · `Git` · `Docker` · `Ollama` · `Linux Security` · `OPSEC`
 
-## Mission
+## Mission & engineering principles
 
-Developing open, autonomous, and privacy-focused technology for real-world research, security operations, and experimentation with local AI systems.
+I develop and investigate privacy-conscious Linux and Android tools, reproducible security workflows, and carefully evaluated local AI systems.
+
+- **Evidence before claims:** distinguish experimental features from independently measured results.
+- **Privacy and security:** safeguard private research data, configurations and system state.
+- **Recoverability:** prioritize versioned encrypted backups and tested restoration.
+- **Responsible open source:** respect upstream licenses, maintainers and disclosure boundaries.
 
 ## Support SOL Origins
 
-SOL Origins is an **independent AI research initiative**. Contributions to the fundraiser are optional and separate from purchases or technical services.
+**SOL Origins — Independent AI Research** is a personal, independently developed research project exploring locally run language models and experimental memory/tool workflows. A working private prototype exists; a dedicated research workstation and reproducible public evaluation are planned, not completed.
+
+The fundraiser is personal, **not a registered charity**. Contributions are optional and do not purchase products or services.
 
 [![Support SOL Origins](https://img.shields.io/badge/Support-SOL_Origins-E82127?style=for-the-badge)](https://www.gofundme.com/f/help-build-sol-origins-independent-ai-research)
 
@@ -64,8 +66,8 @@ SOL Origins is an **independent AI research initiative**. Contributions to the f
 
 **GitHub:** [@Sylviomanuel-netizen](https://github.com/Sylviomanuel-netizen)
 
-**LinkedIn:** Link to be added after confirming the public profile URL.
+**LinkedIn:** [Juan Favela](https://www.linkedin.com/in/juan-favela-4b2151254/)
 
 ---
 
-<div align="center"><sub>BLACKARCH OPS is an independent project identity, not an official BlackArch, Termux or GrapheneOS organization.</sub></div>
+<div align="center"><sub>BLACKARCH OPS is an independent project identity and is not affiliated with or endorsed by BlackArch, Termux, GrapheneOS or their maintainers.</sub></div>
