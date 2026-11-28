@@ -49,6 +49,7 @@ My approach emphasizes reproducible methods, system hardening, careful documenta
 | [GrapheneOS-Installation-Guide](https://github.com/Sylviomanuel-netizen/GrapheneOS-Installation-Guide) | Official WebUSB installation walkthrough |
 | [GrapheneOS-Privacy-Guide](https://github.com/Sylviomanuel-netizen/GrapheneOS-Privacy-Guide.) | Mobile security and privacy education |
 | [Whonix-Installation-Guide](https://github.com/Sylviomanuel-netizen/Whonix-Installation-Guide) | Tor networking and isolated virtual machines |
+| [BlackArch-Installation-Guide](https://github.com/Sylviomanuel-netizen/BlackArch-Installation-Guide) | Native Linux installation and encrypted storage |
 
 ## Tech Stack & Interests
 
