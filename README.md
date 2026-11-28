@@ -50,6 +50,7 @@ My approach emphasizes reproducible methods, system hardening, careful documenta
 | [GrapheneOS-Privacy-Guide](https://github.com/Sylviomanuel-netizen/GrapheneOS-Privacy-Guide.) | Mobile security and privacy education |
 | [Whonix-Installation-Guide](https://github.com/Sylviomanuel-netizen/Whonix-Installation-Guide) | Tor networking and isolated virtual machines |
 | [BlackArch-Installation-Guide](https://github.com/Sylviomanuel-netizen/BlackArch-Installation-Guide) | Native Linux installation and encrypted storage |
+| [BlackArch-LUKS-Encryption](https://github.com/Sylviomanuel-netizen/BlackArch-LUKS-Encryption) | Linux disk encryption and recovery |
 
 ## Tech Stack & Interests
 
