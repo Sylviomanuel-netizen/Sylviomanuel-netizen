@@ -10,11 +10,11 @@
 
 **Linux & Cybersecurity Research · Android Privacy · Local AI Development**
 
-![Linux](https://img.shields.io/badge/Linux-101015?style=for-the-badge&logo=linux&logoColor=white)
-![BlackArch](https://img.shields.io/badge/BlackArch-171717?style=for-the-badge&logo=archlinux&logoColor=E82127)
+![Linux](https://img.shields.io/badge/Linux-101015?style=for-the-badge&logo=linux&logoColor=E82127)
+![BlackArch](https://img.shields.io/badge/BlackArch-101015?style=for-the-badge&logo=archlinux&logoColor=E82127)
 ![Android](https://img.shields.io/badge/Android-101015?style=for-the-badge&logo=android&logoColor=E82127)
 ![Privacy](https://img.shields.io/badge/Privacy_%26_Security-101015?style=for-the-badge&logo=proton&logoColor=E82127)
-![Open Source](https://img.shields.io/badge/Open_Source-101015?style=for-the-badge&logo=github&logoColor=white)
+![Open Source](https://img.shields.io/badge/Open_Source-101015?style=for-the-badge&logo=github&logoColor=E82127)
 
 **Cybersecurity · Linux · Privacy · Reproducible Research**
 
@@ -38,6 +38,16 @@ My approach emphasizes reproducible methods, system hardening, careful documenta
 | **BlackArch Fortress / Sentinel** | Linux security auditing, policy hardening and controlled research workflows | Ongoing private research |
 
 > Project descriptions do not imply source-code release or official affiliation. Public repositories and evidence will be linked after security, privacy and licensing review.
+
+## Public repositories
+
+| Repository | Focus |
+| --- | --- |
+| [BlackArch-Android](https://github.com/Sylviomanuel-netizen/BlackArch-Android) | Native Arch ARM chroot and encrypted storage |
+| [RestlessOS-Moto-G-2025](https://github.com/Sylviomanuel-netizen/RestlessOS-Moto-G-2025) | Device-specific Android GSI research |
+| [BlackArch-OPS-Dotfiles](https://github.com/Sylviomanuel-netizen/BlackArch-OPS-Dotfiles) | Linux desktop and terminal configuration |
+| [GrapheneOS-Installation-Guide](https://github.com/Sylviomanuel-netizen/GrapheneOS-Installation-Guide) | Official WebUSB installation walkthrough |
+| [GrapheneOS-Privacy-Guide](https://github.com/Sylviomanuel-netizen/GrapheneOS-Privacy-Guide.) | Mobile security and privacy education |
 
 ## Tech Stack & Interests
 
